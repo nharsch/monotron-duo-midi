@@ -34,6 +34,8 @@ I built a `NoteStack` in C, which ended up being a quick Data Structures and Alg
 ## It works!
 I'm now able to sequence the Duo with Ableton, which frees up my hands to play with the knobs on the Duo, which is the really fun part of analog synths.
 
+[Here's a little example of what it can do](https://soundcloud.com/nigelharsch/korg-noises-and-arp?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
 ## What next?
 ### More octaves and Pitch Bend
 One octave is cool, but the Duo has about a 3 octave range if you adjust the pitch knob. Bizarely, there is no equivalent pitch patch point. Even if there was, I'm already out of DAC outputs. I experimented using PWM on the output pin of the pitch potentiometer and it _sorta_ worked but wasn't great. 
